@@ -3,5 +3,8 @@ public class Test {
     if (true) {
 
     }
+    if (false) {
+
+    }
   }
 }
